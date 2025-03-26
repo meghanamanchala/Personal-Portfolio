@@ -3,7 +3,7 @@ const projects = [
       title: "Hospital Management System",
       description: "The Hospital Management System helps patients book doctor appointments faster, saving time and improving their experience..",
       technologies: ["Node.js", "MongoDB","OAuth"],
-      image: '../src/assets/Hosp.jpg',
+      image: '../src/public/hosp.jpg',
       link: "https://capstone-mediconnect.vercel.app/",
       author: "Meghana"
     },
@@ -11,7 +11,7 @@ const projects = [
       title: "Quiz App",
       description: "A Quiz App for easily taking and tracking quizzes.",
       technologies: ["React", "Tailwind CSS"],
-      image: "../src/assets/Quiz.jpg",
+      image: "../src/public/quiz.jpg",
       link: "https://quiz-app-general.vercel.app/",
       author: "Meghana"
     },
@@ -19,7 +19,7 @@ const projects = [
       title: "Calculator App",
       description: "A Calculator App for performing quick, accurate, and easy calculations.",
       technologies: ["Next.js", "Node.js"],
-      image: "../src/assets/Calculator.png",
+      image: "../src/public/calculator.png",
       link: "https://calculator-app-rouge-six.vercel.app/",
       author: "Meghana"
     },
@@ -27,7 +27,7 @@ const projects = [
       title: "Personal Portfolio Website",
       description: "A personal website showcasing projects, blogs, and contact information.",
       technologies: ["Gatsby", "GraphQL", "Styled Components"],
-      image: "/Portfolio.png",
+      image: "/portfolio.png",
       link: "https://portfolio.example.com",
       author: "Meghana"
     }
