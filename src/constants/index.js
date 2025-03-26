@@ -27,7 +27,7 @@ const projects = [
       title: "Personal Portfolio Website",
       description: "A personal website showcasing projects, blogs, and contact information.",
       technologies: ["Gatsby", "GraphQL", "Styled Components"],
-      image: "/Portfolio.png",
+      image: "../src/public/image.png",
       link: "https://portfolio.example.com",
       author: "Meghana"
     }
