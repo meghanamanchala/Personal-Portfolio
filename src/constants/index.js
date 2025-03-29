@@ -4,7 +4,7 @@ const projects = [
       description: "The Hospital Management System helps patients book doctor appointments faster, saving time and improving their experience..",
       technologies: ["Node.js", "MongoDB","OAuth"],
       image: '/hosp.jpg',
-      link: "https://capstone-mediconnect.vercel.app/",
+      link: "https://capstone-project-two-eta.vercel.app/",
       author: "Meghana"
     },
     {
